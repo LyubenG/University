@@ -1,0 +1,9 @@
+C:\Users\luben\source\repos\PositionChanger\PositionChanger\bin\Debug\PositionChanger.exe.config
+C:\Users\luben\source\repos\PositionChanger\PositionChanger\bin\Debug\PositionChanger.exe
+C:\Users\luben\source\repos\PositionChanger\PositionChanger\bin\Debug\PositionChanger.pdb
+C:\Users\luben\source\repos\PositionChanger\PositionChanger\obj\Debug\PositionChanger.MainForm.resources
+C:\Users\luben\source\repos\PositionChanger\PositionChanger\obj\Debug\PositionChanger.Properties.Resources.resources
+C:\Users\luben\source\repos\PositionChanger\PositionChanger\obj\Debug\PositionChanger.csproj.GenerateResource.cache
+C:\Users\luben\source\repos\PositionChanger\PositionChanger\obj\Debug\PositionChanger.csproj.CoreCompileInputs.cache
+C:\Users\luben\source\repos\PositionChanger\PositionChanger\obj\Debug\PositionChanger.exe
+C:\Users\luben\source\repos\PositionChanger\PositionChanger\obj\Debug\PositionChanger.pdb

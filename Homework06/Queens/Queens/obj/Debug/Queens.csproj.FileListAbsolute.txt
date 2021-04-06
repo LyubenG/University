@@ -1,0 +1,20 @@
+C:\Users\luben\source\repos\Queens\Queens\bin\Debug\Queens.exe.config
+C:\Users\luben\source\repos\Queens\Queens\bin\Debug\Queens.exe
+C:\Users\luben\source\repos\Queens\Queens\bin\Debug\Queens.pdb
+C:\Users\luben\source\repos\Queens\Queens\obj\Debug\Queens.csprojAssemblyReference.cache
+C:\Users\luben\source\repos\Queens\Queens\obj\Debug\Queens.MainForm.resources
+C:\Users\luben\source\repos\Queens\Queens\obj\Debug\Queens.Properties.Resources.resources
+C:\Users\luben\source\repos\Queens\Queens\obj\Debug\Queens.csproj.GenerateResource.cache
+C:\Users\luben\source\repos\Queens\Queens\obj\Debug\Queens.csproj.CoreCompileInputs.cache
+C:\Users\luben\source\repos\Queens\Queens\obj\Debug\Queens.exe
+C:\Users\luben\source\repos\Queens\Queens\obj\Debug\Queens.pdb
+C:\Users\luben\Desktop\University Work\SecondSemester\Creating a GUI\Homeworks\Homework06\Queens\Queens\bin\Debug\Queens.exe.config
+C:\Users\luben\Desktop\University Work\SecondSemester\Creating a GUI\Homeworks\Homework06\Queens\Queens\bin\Debug\Queens.exe
+C:\Users\luben\Desktop\University Work\SecondSemester\Creating a GUI\Homeworks\Homework06\Queens\Queens\bin\Debug\Queens.pdb
+C:\Users\luben\Desktop\University Work\SecondSemester\Creating a GUI\Homeworks\Homework06\Queens\Queens\obj\Debug\Queens.csprojAssemblyReference.cache
+C:\Users\luben\Desktop\University Work\SecondSemester\Creating a GUI\Homeworks\Homework06\Queens\Queens\obj\Debug\Queens.MainForm.resources
+C:\Users\luben\Desktop\University Work\SecondSemester\Creating a GUI\Homeworks\Homework06\Queens\Queens\obj\Debug\Queens.Properties.Resources.resources
+C:\Users\luben\Desktop\University Work\SecondSemester\Creating a GUI\Homeworks\Homework06\Queens\Queens\obj\Debug\Queens.csproj.GenerateResource.cache
+C:\Users\luben\Desktop\University Work\SecondSemester\Creating a GUI\Homeworks\Homework06\Queens\Queens\obj\Debug\Queens.csproj.CoreCompileInputs.cache
+C:\Users\luben\Desktop\University Work\SecondSemester\Creating a GUI\Homeworks\Homework06\Queens\Queens\obj\Debug\Queens.exe
+C:\Users\luben\Desktop\University Work\SecondSemester\Creating a GUI\Homeworks\Homework06\Queens\Queens\obj\Debug\Queens.pdb

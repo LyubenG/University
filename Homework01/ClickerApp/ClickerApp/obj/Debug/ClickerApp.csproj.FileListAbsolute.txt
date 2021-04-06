@@ -1,0 +1,30 @@
+C:\Users\luben\source\repos\ClickerApp\ClickerApp\bin\Debug\ClickerApp.exe.config
+C:\Users\luben\source\repos\ClickerApp\ClickerApp\bin\Debug\ClickerApp.exe
+C:\Users\luben\source\repos\ClickerApp\ClickerApp\bin\Debug\ClickerApp.pdb
+C:\Users\luben\source\repos\ClickerApp\ClickerApp\obj\Debug\ClickerApp.csprojAssemblyReference.cache
+C:\Users\luben\source\repos\ClickerApp\ClickerApp\obj\Debug\ClickerApp.MainPage.resources
+C:\Users\luben\source\repos\ClickerApp\ClickerApp\obj\Debug\ClickerApp.Properties.Resources.resources
+C:\Users\luben\source\repos\ClickerApp\ClickerApp\obj\Debug\ClickerApp.csproj.GenerateResource.cache
+C:\Users\luben\source\repos\ClickerApp\ClickerApp\obj\Debug\ClickerApp.csproj.CoreCompileInputs.cache
+C:\Users\luben\source\repos\ClickerApp\ClickerApp\obj\Debug\ClickerApp.exe
+C:\Users\luben\source\repos\ClickerApp\ClickerApp\obj\Debug\ClickerApp.pdb
+C:\Users\luben\Desktop\ClickerApp\ClickerApp\bin\Debug\ClickerApp.exe.config
+C:\Users\luben\Desktop\ClickerApp\ClickerApp\bin\Debug\ClickerApp.exe
+C:\Users\luben\Desktop\ClickerApp\ClickerApp\bin\Debug\ClickerApp.pdb
+C:\Users\luben\Desktop\ClickerApp\ClickerApp\obj\Debug\ClickerApp.csprojAssemblyReference.cache
+C:\Users\luben\Desktop\ClickerApp\ClickerApp\obj\Debug\ClickerApp.MainPage.resources
+C:\Users\luben\Desktop\ClickerApp\ClickerApp\obj\Debug\ClickerApp.Properties.Resources.resources
+C:\Users\luben\Desktop\ClickerApp\ClickerApp\obj\Debug\ClickerApp.csproj.GenerateResource.cache
+C:\Users\luben\Desktop\ClickerApp\ClickerApp\obj\Debug\ClickerApp.csproj.CoreCompileInputs.cache
+C:\Users\luben\Desktop\ClickerApp\ClickerApp\obj\Debug\ClickerApp.exe
+C:\Users\luben\Desktop\ClickerApp\ClickerApp\obj\Debug\ClickerApp.pdb
+C:\Users\luben\Desktop\University Work\SecondSemester\Creating a GUI\Homeworks\Homework01\ClickerApp\ClickerApp\bin\Debug\ClickerApp.exe.config
+C:\Users\luben\Desktop\University Work\SecondSemester\Creating a GUI\Homeworks\Homework01\ClickerApp\ClickerApp\bin\Debug\ClickerApp.exe
+C:\Users\luben\Desktop\University Work\SecondSemester\Creating a GUI\Homeworks\Homework01\ClickerApp\ClickerApp\bin\Debug\ClickerApp.pdb
+C:\Users\luben\Desktop\University Work\SecondSemester\Creating a GUI\Homeworks\Homework01\ClickerApp\ClickerApp\obj\Debug\ClickerApp.csprojAssemblyReference.cache
+C:\Users\luben\Desktop\University Work\SecondSemester\Creating a GUI\Homeworks\Homework01\ClickerApp\ClickerApp\obj\Debug\ClickerApp.MainPage.resources
+C:\Users\luben\Desktop\University Work\SecondSemester\Creating a GUI\Homeworks\Homework01\ClickerApp\ClickerApp\obj\Debug\ClickerApp.Properties.Resources.resources
+C:\Users\luben\Desktop\University Work\SecondSemester\Creating a GUI\Homeworks\Homework01\ClickerApp\ClickerApp\obj\Debug\ClickerApp.csproj.GenerateResource.cache
+C:\Users\luben\Desktop\University Work\SecondSemester\Creating a GUI\Homeworks\Homework01\ClickerApp\ClickerApp\obj\Debug\ClickerApp.csproj.CoreCompileInputs.cache
+C:\Users\luben\Desktop\University Work\SecondSemester\Creating a GUI\Homeworks\Homework01\ClickerApp\ClickerApp\obj\Debug\ClickerApp.exe
+C:\Users\luben\Desktop\University Work\SecondSemester\Creating a GUI\Homeworks\Homework01\ClickerApp\ClickerApp\obj\Debug\ClickerApp.pdb

@@ -1,0 +1,20 @@
+C:\Users\luben\source\repos\GuessTheNumber\GuessTheNumber\bin\Debug\GuessTheNumber.exe.config
+C:\Users\luben\source\repos\GuessTheNumber\GuessTheNumber\bin\Debug\GuessTheNumber.exe
+C:\Users\luben\source\repos\GuessTheNumber\GuessTheNumber\bin\Debug\GuessTheNumber.pdb
+C:\Users\luben\source\repos\GuessTheNumber\GuessTheNumber\obj\Debug\GuessTheNumber.csprojAssemblyReference.cache
+C:\Users\luben\source\repos\GuessTheNumber\GuessTheNumber\obj\Debug\GuessTheNumber.MainForm.resources
+C:\Users\luben\source\repos\GuessTheNumber\GuessTheNumber\obj\Debug\GuessTheNumber.Properties.Resources.resources
+C:\Users\luben\source\repos\GuessTheNumber\GuessTheNumber\obj\Debug\GuessTheNumber.csproj.GenerateResource.cache
+C:\Users\luben\source\repos\GuessTheNumber\GuessTheNumber\obj\Debug\GuessTheNumber.csproj.CoreCompileInputs.cache
+C:\Users\luben\source\repos\GuessTheNumber\GuessTheNumber\obj\Debug\GuessTheNumber.exe
+C:\Users\luben\source\repos\GuessTheNumber\GuessTheNumber\obj\Debug\GuessTheNumber.pdb
+C:\Users\luben\Desktop\University Work\SecondSemester\Creating a GUI\Homeworks\Homework03\GuessTheNumber\GuessTheNumber\bin\Debug\GuessTheNumber.exe.config
+C:\Users\luben\Desktop\University Work\SecondSemester\Creating a GUI\Homeworks\Homework03\GuessTheNumber\GuessTheNumber\bin\Debug\GuessTheNumber.exe
+C:\Users\luben\Desktop\University Work\SecondSemester\Creating a GUI\Homeworks\Homework03\GuessTheNumber\GuessTheNumber\bin\Debug\GuessTheNumber.pdb
+C:\Users\luben\Desktop\University Work\SecondSemester\Creating a GUI\Homeworks\Homework03\GuessTheNumber\GuessTheNumber\obj\Debug\GuessTheNumber.csprojAssemblyReference.cache
+C:\Users\luben\Desktop\University Work\SecondSemester\Creating a GUI\Homeworks\Homework03\GuessTheNumber\GuessTheNumber\obj\Debug\GuessTheNumber.MainForm.resources
+C:\Users\luben\Desktop\University Work\SecondSemester\Creating a GUI\Homeworks\Homework03\GuessTheNumber\GuessTheNumber\obj\Debug\GuessTheNumber.Properties.Resources.resources
+C:\Users\luben\Desktop\University Work\SecondSemester\Creating a GUI\Homeworks\Homework03\GuessTheNumber\GuessTheNumber\obj\Debug\GuessTheNumber.csproj.GenerateResource.cache
+C:\Users\luben\Desktop\University Work\SecondSemester\Creating a GUI\Homeworks\Homework03\GuessTheNumber\GuessTheNumber\obj\Debug\GuessTheNumber.csproj.CoreCompileInputs.cache
+C:\Users\luben\Desktop\University Work\SecondSemester\Creating a GUI\Homeworks\Homework03\GuessTheNumber\GuessTheNumber\obj\Debug\GuessTheNumber.exe
+C:\Users\luben\Desktop\University Work\SecondSemester\Creating a GUI\Homeworks\Homework03\GuessTheNumber\GuessTheNumber\obj\Debug\GuessTheNumber.pdb

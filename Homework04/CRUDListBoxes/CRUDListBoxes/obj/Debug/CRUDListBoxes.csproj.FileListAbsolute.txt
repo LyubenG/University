@@ -1,0 +1,10 @@
+C:\Users\luben\source\repos\CRUDListBoxes\CRUDListBoxes\bin\Debug\CRUDListBoxes.exe.config
+C:\Users\luben\source\repos\CRUDListBoxes\CRUDListBoxes\bin\Debug\CRUDListBoxes.exe
+C:\Users\luben\source\repos\CRUDListBoxes\CRUDListBoxes\bin\Debug\CRUDListBoxes.pdb
+C:\Users\luben\source\repos\CRUDListBoxes\CRUDListBoxes\obj\Debug\CRUDListBoxes.csprojAssemblyReference.cache
+C:\Users\luben\source\repos\CRUDListBoxes\CRUDListBoxes\obj\Debug\CRUDListBoxes.MainForm.resources
+C:\Users\luben\source\repos\CRUDListBoxes\CRUDListBoxes\obj\Debug\CRUDListBoxes.Properties.Resources.resources
+C:\Users\luben\source\repos\CRUDListBoxes\CRUDListBoxes\obj\Debug\CRUDListBoxes.csproj.GenerateResource.cache
+C:\Users\luben\source\repos\CRUDListBoxes\CRUDListBoxes\obj\Debug\CRUDListBoxes.csproj.CoreCompileInputs.cache
+C:\Users\luben\source\repos\CRUDListBoxes\CRUDListBoxes\obj\Debug\CRUDListBoxes.exe
+C:\Users\luben\source\repos\CRUDListBoxes\CRUDListBoxes\obj\Debug\CRUDListBoxes.pdb

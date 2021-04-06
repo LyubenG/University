@@ -1,0 +1,20 @@
+C:\Users\luben\source\repos\RockScissorsPaper\RockScissorsPaper\bin\Debug\RockScissorsPaper.exe.config
+C:\Users\luben\source\repos\RockScissorsPaper\RockScissorsPaper\bin\Debug\RockScissorsPaper.exe
+C:\Users\luben\source\repos\RockScissorsPaper\RockScissorsPaper\bin\Debug\RockScissorsPaper.pdb
+C:\Users\luben\source\repos\RockScissorsPaper\RockScissorsPaper\obj\Debug\RockScissorsPaper.csprojAssemblyReference.cache
+C:\Users\luben\source\repos\RockScissorsPaper\RockScissorsPaper\obj\Debug\RockScissorsPaper.MainForm.resources
+C:\Users\luben\source\repos\RockScissorsPaper\RockScissorsPaper\obj\Debug\RockScissorsPaper.Properties.Resources.resources
+C:\Users\luben\source\repos\RockScissorsPaper\RockScissorsPaper\obj\Debug\RockScissorsPaper.csproj.GenerateResource.cache
+C:\Users\luben\source\repos\RockScissorsPaper\RockScissorsPaper\obj\Debug\RockScissorsPaper.csproj.CoreCompileInputs.cache
+C:\Users\luben\source\repos\RockScissorsPaper\RockScissorsPaper\obj\Debug\RockScissorsPaper.exe
+C:\Users\luben\source\repos\RockScissorsPaper\RockScissorsPaper\obj\Debug\RockScissorsPaper.pdb
+C:\Users\luben\Desktop\University Work\SecondSemester\Creating a GUI\Homeworks\Homework03\RockScissorsPaper\RockScissorsPaper\bin\Debug\RockScissorsPaper.exe.config
+C:\Users\luben\Desktop\University Work\SecondSemester\Creating a GUI\Homeworks\Homework03\RockScissorsPaper\RockScissorsPaper\bin\Debug\RockScissorsPaper.exe
+C:\Users\luben\Desktop\University Work\SecondSemester\Creating a GUI\Homeworks\Homework03\RockScissorsPaper\RockScissorsPaper\bin\Debug\RockScissorsPaper.pdb
+C:\Users\luben\Desktop\University Work\SecondSemester\Creating a GUI\Homeworks\Homework03\RockScissorsPaper\RockScissorsPaper\obj\Debug\RockScissorsPaper.csprojAssemblyReference.cache
+C:\Users\luben\Desktop\University Work\SecondSemester\Creating a GUI\Homeworks\Homework03\RockScissorsPaper\RockScissorsPaper\obj\Debug\RockScissorsPaper.MainForm.resources
+C:\Users\luben\Desktop\University Work\SecondSemester\Creating a GUI\Homeworks\Homework03\RockScissorsPaper\RockScissorsPaper\obj\Debug\RockScissorsPaper.Properties.Resources.resources
+C:\Users\luben\Desktop\University Work\SecondSemester\Creating a GUI\Homeworks\Homework03\RockScissorsPaper\RockScissorsPaper\obj\Debug\RockScissorsPaper.csproj.GenerateResource.cache
+C:\Users\luben\Desktop\University Work\SecondSemester\Creating a GUI\Homeworks\Homework03\RockScissorsPaper\RockScissorsPaper\obj\Debug\RockScissorsPaper.csproj.CoreCompileInputs.cache
+C:\Users\luben\Desktop\University Work\SecondSemester\Creating a GUI\Homeworks\Homework03\RockScissorsPaper\RockScissorsPaper\obj\Debug\RockScissorsPaper.exe
+C:\Users\luben\Desktop\University Work\SecondSemester\Creating a GUI\Homeworks\Homework03\RockScissorsPaper\RockScissorsPaper\obj\Debug\RockScissorsPaper.pdb

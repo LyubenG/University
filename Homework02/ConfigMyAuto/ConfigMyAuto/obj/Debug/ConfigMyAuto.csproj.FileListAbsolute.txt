@@ -1,0 +1,10 @@
+C:\Users\luben\source\repos\ConfigMyAuto\ConfigMyAuto\bin\Debug\ConfigMyAuto.exe.config
+C:\Users\luben\source\repos\ConfigMyAuto\ConfigMyAuto\bin\Debug\ConfigMyAuto.exe
+C:\Users\luben\source\repos\ConfigMyAuto\ConfigMyAuto\bin\Debug\ConfigMyAuto.pdb
+C:\Users\luben\source\repos\ConfigMyAuto\ConfigMyAuto\obj\Debug\ConfigMyAuto.MainPage.resources
+C:\Users\luben\source\repos\ConfigMyAuto\ConfigMyAuto\obj\Debug\ConfigMyAuto.Properties.Resources.resources
+C:\Users\luben\source\repos\ConfigMyAuto\ConfigMyAuto\obj\Debug\ConfigMyAuto.csproj.GenerateResource.cache
+C:\Users\luben\source\repos\ConfigMyAuto\ConfigMyAuto\obj\Debug\ConfigMyAuto.csproj.CoreCompileInputs.cache
+C:\Users\luben\source\repos\ConfigMyAuto\ConfigMyAuto\obj\Debug\ConfigMyAuto.exe
+C:\Users\luben\source\repos\ConfigMyAuto\ConfigMyAuto\obj\Debug\ConfigMyAuto.pdb
+C:\Users\luben\source\repos\ConfigMyAuto\ConfigMyAuto\obj\Debug\ConfigMyAuto.csprojAssemblyReference.cache

@@ -1,0 +1,10 @@
+C:\Users\luben\source\repos\BasicEventsWithListBoxes\BasicEventsWithListBoxes\bin\Debug\BasicEventsWithListBoxes.exe.config
+C:\Users\luben\source\repos\BasicEventsWithListBoxes\BasicEventsWithListBoxes\bin\Debug\BasicEventsWithListBoxes.exe
+C:\Users\luben\source\repos\BasicEventsWithListBoxes\BasicEventsWithListBoxes\bin\Debug\BasicEventsWithListBoxes.pdb
+C:\Users\luben\source\repos\BasicEventsWithListBoxes\BasicEventsWithListBoxes\obj\Debug\BasicEventsWithListBoxes.csprojAssemblyReference.cache
+C:\Users\luben\source\repos\BasicEventsWithListBoxes\BasicEventsWithListBoxes\obj\Debug\BasicEventsWithListBoxes.MainForm.resources
+C:\Users\luben\source\repos\BasicEventsWithListBoxes\BasicEventsWithListBoxes\obj\Debug\BasicEventsWithListBoxes.Properties.Resources.resources
+C:\Users\luben\source\repos\BasicEventsWithListBoxes\BasicEventsWithListBoxes\obj\Debug\BasicEventsWithListBoxes.csproj.GenerateResource.cache
+C:\Users\luben\source\repos\BasicEventsWithListBoxes\BasicEventsWithListBoxes\obj\Debug\BasicEventsWithListBoxes.csproj.CoreCompileInputs.cache
+C:\Users\luben\source\repos\BasicEventsWithListBoxes\BasicEventsWithListBoxes\obj\Debug\BasicEventsWithListBoxes.exe
+C:\Users\luben\source\repos\BasicEventsWithListBoxes\BasicEventsWithListBoxes\obj\Debug\BasicEventsWithListBoxes.pdb
